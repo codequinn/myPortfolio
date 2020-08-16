@@ -1,9 +1,9 @@
-# myPortfolio
+## Ikram Babs-Lawal
 
-##Just on rule
+# Just on rule
 **add** my **name** at the bottom of the page, e.g Insipired by **Ikram Babs-Lawal Portfoli** as a link  redirecting to my portfolio
 
-##How to use
+# How to use
 1. fork
 2. clone the repo
 3. change your desired things
